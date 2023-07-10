@@ -1,5 +1,3 @@
-# Time complexity of merging = 0(n)
-
 def merge(nums1, m, nums2, n):
     # Constraint 1
     if not len(nums1) == m+n:
